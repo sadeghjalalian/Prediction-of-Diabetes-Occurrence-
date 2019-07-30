@@ -1,1 +1,1 @@
-# Prediction-of-Diabetes-Occurrence-
+# Prediction of Diabetes Occurrence
